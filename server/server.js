@@ -73,4 +73,9 @@ app.listen(port, () => {
 	console.log(`Started on port ${port}`);
 });
 
+if (af) {
+	
+} else {
+	
+}
 module.exports = {app};
